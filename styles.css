@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Raleway:400,700');
+
+
+html {
+    height: 100%;
+}
+
+body{
+    background-image: linear-gradient(rgba(27,17,11,1), rgba(114,70,48,0.3)), url("https://source.unsplash.com/WIJPPnoVrDs/1600x900");
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 8em;
+}
+
+p{
+    font-family: 'Raleway';
+}
+
